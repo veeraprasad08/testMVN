@@ -11,6 +11,7 @@ public class testAnnotations2 {
 		
 		System.out.println("we are in Logout method of class2");
 		System.out.println("I have done some chnages here");
+		System.out.println("these are my third changes");
 	}
 		
 		@Test(priority=1)
